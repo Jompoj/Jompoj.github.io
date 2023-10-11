@@ -1,2 +1,3 @@
 # Jompoj.github.io
-![Alt text](![image](https://github.com/Jompoj/Jompoj.github.io/assets/147574797/cdc6763f-7736-4994-acbd-07b71c3ed9b4))
+![alt text for screen readers](![image](https://github.com/Jompoj/Jompoj.github.io/assets/147574797/3487e5b4-e7c9-4fca-812f-5c64e8e78cfa)
+).
